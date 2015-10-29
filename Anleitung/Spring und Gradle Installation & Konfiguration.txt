@@ -1,0 +1,4 @@
+1. Spring Tool Suite von der Seite https://spring.io/tools/sts/all herunterladen und anschließend entpacken.
+2. "STS.exe" aus dem Verzeichnis "sts-bundle\sts-3.7.1.RELEASE\" starten. (Windows)
+3. Im Dashboard auf "IDE EXTENSIONS" klicken und die Erweitertung "Gradle Support" installieren.
+4. Spring Tool Suite neustarten.
