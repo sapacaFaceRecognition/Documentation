@@ -1,9 +1,10 @@
-
-
-# 1. Spring Tool Suite herunterladen
+1. Spring Tool Suite herunterladen
 Spring Tool Suite von der Seite https://spring.io/tools/sts/all herunterladen und anschließend entpacken.
-# 2. Spring Tool Suite starten
+
+2. Spring Tool Suite starten
 "STS.exe" aus dem Verzeichnis "sts-bundle\sts-3.7.1.RELEASE\" starten. (Windows)
-# 3. Gradle Suppoert installieren
+
+3. Gradle Suppoert installieren
 Im Dashboard auf "IDE EXTENSIONS" klicken und die Erweitertung "Gradle Support" installieren.
-# 4. Spring Tool Suite neustarten.
+
+4. Spring Tool Suite neustarten.
