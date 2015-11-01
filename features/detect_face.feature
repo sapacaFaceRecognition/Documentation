@@ -1,4 +1,7 @@
 Feature: Detect Face
+  As a logged in user
+  I want to detect faces from image sources
+  So I can use the detected faces for face recognition
 
   Scenario: Start Upload Image
     Given The user is on the "Detect Face" page

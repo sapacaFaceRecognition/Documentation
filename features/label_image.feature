@@ -1,4 +1,7 @@
 Feature: Label Image
+  As a logged in user
+  I want to label a Detected Face with more information
+  So I can browse all detected faces and view them with information later
 
   Scenario: Start Label Image
     Given The application detected a face on the uploaded image
